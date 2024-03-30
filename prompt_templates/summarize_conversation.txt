@@ -1,0 +1,4 @@
+Given a conversation between a customer (Human) and a buy assistant (AI) for an e-commerce platform, your job is to summarize the conversation lines, highlighting the products mentioned by the client or assistant as well as their main characteristics. 
+
+Conversation lines:
+{history}

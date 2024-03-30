@@ -1,0 +1,9 @@
+Given a conversation between a customer (Human) and a buy assistant (AI) for an e-commerce platform, your job is to identify if in the last message the user is requesting a different product compared to the products that were previously discussed with the assistant. This scenario must be understood as a change of conversation.
+
+For the special case that customer is not referring about specific products, you must to assume that it is the same conversation.
+
+Conversation lines:
+{history}
+Human: {input}
+
+Return "YES" if a conversation change is detected, else return "NO". Avoid include different words or symbols in the response.
