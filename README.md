@@ -1,4 +1,4 @@
-# Endless chat with a LLM using LangChain
+# Building endless conversations with LLMs using LangChain
 
 This repository introduces a feature that enables extended conversations with a LLM, regardless of the context window limitations inherent to the specific model. This development is motivated by the requirements of a buy assistant use case for an e-commerce platform.
 
